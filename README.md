@@ -1,2 +1,2 @@
 # Arrange-shortstory
-Arrange short story in Alphabetical order using Python
+Arrange sentences within the story in alphabetical order using Python
